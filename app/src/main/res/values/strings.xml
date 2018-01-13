@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySQLiteProject</string>
+    <string name="permission_is_required">הרשאת גישה חשובה לנו בכדי לאתר איש קשר!</string>
+    <string name="no">no</string>
+    <string name="yes">yes</string>
+    <string name="contacts_list">לחץ לקבלת - רשימת אנשי קשר</string>
+</resources>
